@@ -1,58 +1,28 @@
 # Operations Workflow Dashboard
 
-A browser-based workflow dashboard built with JavaScript.
-
-## Problem
-
-Managing a large volume of simultaneous operational requests
-creates risk of:
-
-- Missed follow-ups
-- Missed delivery milestones
-- Incomplete documentation
-- Reporting delays
-
-## Solution
-
-This project centralizes operational tracking into a single dashboard.
+A browser-based workflow assistant designed to improve operational visibility, task tracking, follow-up management and installation monitoring.
 
 ## Features
 
-- Workflow Management
-- Follow-Up Tracking
-- Installation Monitoring
-- Smart Reminders
-- Priority Indicators
-- Risk Controls
-- CSV Import / Export
-- Reporting Functions
+✅ Task Tracking
 
-## Technologies
+✅ Installation Monitoring
 
-- JavaScript
-- HTML
-- CSS
-- Local Storage
-- Tampermonkey
+✅ Completion Notice Reminders
 
-## Version Highlights
+✅ Risk Indicators
 
-### v1
-Basic tracking solution
+✅ Priority Controls
 
-### v5
-Operational reporting
+✅ Follow-Up Management
 
-### v7
-Review Type system
+✅ CSV Import / Export
 
-### v9
-Installation Monitoring
+✅ Reporting Tools
 
-### v9.37
-Completion Notice Reminder Engine
+---
 
-# Screenshots
+## Screenshots
 
 ## Main Dashboard
 
@@ -62,10 +32,31 @@ screenshots/dashboard-main.png
 
 screenshots/installation-monitoring.png
 
+## Completion Reminder
+
+screenshots/completion-reminder.png
+
 ## Control Center
 
 screenshots/control-center.png
 
-## Completion Reminder
+---
 
-screenshots/completion-reminder.png
+## Technologies
+
+- JavaScript
+- HTML
+- CSS
+- Local Storage
+- Tampermonkey
+
+---
+
+## Project Goal
+
+This project was created to help manage operational workflows,
+follow-ups, milestones and documentation through a centralized dashboard.
+
+The solution focuses on improving visibility, reducing operational risk
+and supporting workflow execution through reminders, status indicators
+and reporting tools.
