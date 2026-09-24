@@ -52,16 +52,20 @@ Installation Monitoring
 ### v9.37
 Completion Notice Reminder Engine
 
-## Screenshots
+# Screenshots
 
-### Main Dashboard
+## Main Dashboard
 
 screenshots/dashboard-main.png
 
-### Installation Monitoring
+## Installation Monitoring
 
 screenshots/installation-monitoring.png
 
-### Control Center
+## Control Center
 
 screenshots/control-center.png
+
+## Completion Reminder
+
+screenshots/completion-reminder.png
