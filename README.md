@@ -34,7 +34,7 @@ screenshots/installation-monitoring.png
 
 ## Completion Reminder
 
-screenshots/completion-reminder.png
+[screenshots/completion-reminder.png](https://github.com/shedron-tech/operations-workflow-dashboard/blob/main/screenshots/completion-reminder.png)
 
 ## Control Center
 
