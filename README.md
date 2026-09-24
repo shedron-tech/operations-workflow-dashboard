@@ -1,17 +1,6 @@
 # Operations Workflow Dashboard
 
 Operational workflow dashboard focused on risk reduction, follow-up management, installation monitoring and reporting.
-
-## Key Capabilities
-
-- Review Type Management
-- Installation Monitoring Engine
-- Completion Notice Reminder System
-- Operational Risk Dashboard
-- Follow-Up Tracking
-- CSV Backup & Restore
-- Workflow Checklists
-- Reporting Tools
   
 ## Features
 
@@ -31,6 +20,17 @@ Operational workflow dashboard focused on risk reduction, follow-up management, 
 
 ✅ Reporting Tools
 
+---
+## Key Capabilities
+
+- Installation Monitoring
+- Completion Notice Reminder Engine
+- Operational Risk Dashboard
+- Follow-Up Tracking
+- Workflow Management
+- Reporting Tools
+- CSV Import / Export
+- Documentation Controls
 ---
 
 ## Screenshots
