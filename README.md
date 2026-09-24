@@ -24,21 +24,21 @@ A browser-based workflow assistant designed to improve operational visibility, t
 
 ## Screenshots
 
-## Main Dashboard
+### Main Dashboard
 
-screenshots/dashboard-main.png
+![Main Dashboard](screenshots/dashboard-main.png)
 
-## Installation Monitoring
+### Installation Monitoring
 
-screenshots/installation-monitoring.png
+![Installation Monitoring](screenshots/installation-monitoring.png)
 
-## Completion Reminder
+### Completion Reminder
 
-[screenshots/completion-reminder.png](https://github.com/shedron-tech/operations-workflow-dashboard/blob/main/screenshots/completion-reminder.png)
+![Completion Reminder](screenshots/completion-reminder.png)
 
-## Control Center
+### Control Center
 
-screenshots/control-center.png
+![Control Center](screenshots/control-center.png)
 
 ---
 
